@@ -1,5 +1,5 @@
 # Pokedex Javascript
-Foi utilizado html, css, e javascript
+Foi Desenvolvido em html, css, e javascript
 
 # Referências
 https://pokeapi.co/
